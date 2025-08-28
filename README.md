@@ -1,8 +1,8 @@
-<h2 style="text-align: center;">🐾 My Purr-fect Meow-sonal Profile 🐾</h2>
-<p style="text-align: center;">Hi there hooman! 🐱</p>
-<p style="text-align: center;">I'm a First-year grad furball ~.</p>
+<h2 align="center">🐾 My Purr-fect Meow-sonal Profile 🐾</h2>
+<p align="center">Hi there hooman! 🐱</p>
+<p align="center"">I'm a First-year grad furball ~.</p>
 
-<h2 style="text-align: center;">💌 My Meow-jor Focus: Computer Vision!💌</h2>
+<h2 align="center"">💌 My Meow-jor Focus: Computer Vision!💌</h2>
 <p align="center">I study <strong>computer vision</strong>—teaching computers to “see” like us kitties do.</p>
 
 <p align="center"><strong>Here’s what I’m currently paw-ing at</strong></p>
