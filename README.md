@@ -16,5 +16,5 @@
 <p align="center">If you love cats, code, or napping—let’s be friends! Send me a meow anytime.</p>
 
 <p align="center">
-<img src="dist/github-snake.svg" alt="GitHub Contribution Snake Animation" style="max-width: 80%; height: auto;">
+  <img src="https://raw.githubusercontent.com/miaostudy/miaostudy/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" style="max-width: 80%; height: auto;">
 </p>
