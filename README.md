@@ -14,8 +14,18 @@
 <p align="center">🐾 Shrinking Big Data Piles: I <strong>“squish datasets”</strong> smaller (without losing the good stuff) so computers can play with them faster. Less waiting, more coding… and napping. Win-win, meow-meow!</p>
 
 <p align="center">If you love cats, code, or napping—let’s be friends! Send me a meow anytime.</p>
-<!--START_SECTION:readme-info-->
-<!--END_SECTION:readme-info-->
+
+
+
+<p align="center">😺 My code playtime chart! So many sleepy days~</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=miaostudy&bg_color=ffffff&color=666666&title_color=333333&line=666666&point=999999&hide_border=true&grid=false" 
+    alt="GitHub Activity Graph" 
+    style="max-width: 60%; height: auto;"
+  >
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/miaostudy/miaostudy/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" style="max-width: 80%; height: auto;">
 </p>
