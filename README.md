@@ -7,11 +7,11 @@
 
 <p align="center"><strong>Here’s what I’m currently paw-ing at</strong></p>
 
-<p align="center">🐾 Paw-some Image Making: I teach computers to <strong>“draw”</strong> new pics. It’s like digital yarn—endless fun to play with, meow!</p>
+<p align="center"> Paw-some Image Making: I teach computers to <strong>“draw”</strong> new pics. It’s like digital yarn—endless fun to play with, meow!</p>
 
-<p align="center">🐾 Fixing Blurry Med-Pics: I help clean up blurry <strong>“med images”</strong> so they’re sharp—like wiping paw prints off a window!</p>
+<p align="center"> Fixing Blurry Med-Pics: I help clean up blurry <strong>“med images”</strong> so they’re sharp—like wiping paw prints off a window!</p>
 
-<p align="center">🐾 Shrinking Big Data Piles: I <strong>“squish datasets”</strong> smaller (without losing the good stuff) so computers can play with them faster. Less waiting, more coding… and napping. Win-win, meow-meow!</p>
+<p align="center"> Shrinking Big Data Piles: I <strong>“squish datasets”</strong> smaller (without losing the good stuff) so computers can play with them faster. Less waiting, more coding… and napping. Win-win, meow-meow!</p>
 
 <p align="center">If you love cats, code, or napping—let’s be friends! Send me a meow anytime.</p>
 
