@@ -1,17 +1,16 @@
-# <center>🐾 My Purr-fect Meow-sonal Profile 🐾
-<center>Hi there hooman! 🐱
+<h2 style="text-align: center;">🐾 My Purr-fect Meow-sonal Profile 🐾</h2>
+<p style="text-align: center;">Hi there hooman! 🐱</p>
+<p style="text-align: center;">I'm a First-year grad furball ~.</p>
 
-I'm a First-year grad furball ~.
+<h2 style="text-align: center;">💌 My Meow-jor Focus: Computer Vision!💌</h2>
+<p align="center">I study <strong>computer vision</strong>—teaching computers to “see” like us kitties do.</p>
 
-## 💌 My Meow-jor Focus: Computer Vision!💌
-I study **computer vision**—teaching computers to “see” like us kitties do.
+<p align="center"><strong>Here’s what I’m currently paw-ing at</strong></p>
 
-**Here’s what I’m currently paw-ing at**
+<p align="center">🐾 Paw-some Image Making: I teach computers to <strong>“draw”</strong> new pics. It’s like digital yarn—endless fun to play with, meow!</p>
 
-Paw-some Image Making: I teach computers to **“draw”** new pics. It’s like digital yarn—endless fun to play with, meow!
+<p align="center">🐾 Fixing Blurry Med-Pics: I help clean up blurry <strong>“med images”</strong> so they’re sharp—like wiping paw prints off a window!</p>
 
-Fixing Blurry Med-Pics: I help clean up blurry **“med images”** so they’re sharp—like wiping paw prints off a window!
+<p align="center">🐾 Shrinking Big Data Piles: I <strong>“squish datasets”</strong> smaller (without losing the good stuff) so computers can play with them faster. Less waiting, more coding… and napping. Win-win, meow-meow!</p>
 
-Shrinking Big Data Piles:  I **“squish datasets”** smaller (without losing the good stuff) so computers can play with them faster. Less waiting, more coding… and napping. Win-win, meow-meow!
-
-If you love cats, code, or napping—let’s be friends! Send me a meow anytime. 
+<p align="center">If you love cats, code, or napping—let’s be friends! Send me a meow anytime.</p>
