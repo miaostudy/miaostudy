@@ -15,4 +15,6 @@
 
 <p align="center">If you love cats, code, or napping—let’s be friends! Send me a meow anytime.</p>
 
-<!--START_SECTION:activity-->
+<p align="center">
+<img src="dist/github-snake.svg" alt="GitHub Contribution Snake Animation" style="max-width: 80%; height: auto;">
+</p>
