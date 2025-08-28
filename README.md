@@ -16,3 +16,5 @@
 <p align="center">If you love cats, code, or napping—let’s be friends! Send me a meow anytime.</p>
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#2](https://github.com/Guang000/Generative-Dataset-Distillation-Based-on-Diffusion-Model/issues/2) in [Guang000/Generative-Dataset-Distillation-Based-on-Diffusion-Model](https://github.com/Guang000/Generative-Dataset-Distillation-Based-on-Diffusion-Model)
+<!--END_SECTION:activity-->
